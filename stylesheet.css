@@ -1,0 +1,40 @@
+body{
+	padding: 50px 150px 150px 150px;
+	font-family: sans-serif;
+	color: #00AAA0;
+	background-color: #FCF4D9;
+
+}
+p{
+	font-size: 30px;
+}
+ul{
+	font-size: 30px;
+}
+h1{
+	font-size: 50px;
+	color: #FF7A5A;
+}
+h2{
+	font-size: 40px;
+}
+h3{
+	font-size: 40px;
+}
+.nodig{
+	display: inline;
+}
+a{
+	color: #8ED2C9;
+}
+.foto{
+	display: inline;
+	position: absolute;
+	margin-left: 1000px;
+}
+.foto_2{
+	display: inline;
+	position: absolute;
+	margin-left: 800px;
+	margin-top: -220px;
+}

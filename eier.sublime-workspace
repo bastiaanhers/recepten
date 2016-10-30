@@ -1,0 +1,327 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"hr",
+				"href"
+			],
+			[
+				"fo",
+				"footer	Tag"
+			],
+			[
+				"h",
+				"html	html"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"bord",
+				"border-width"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"posi",
+				"position"
+			],
+			[
+				"position",
+				"object-position"
+			],
+			[
+				"bor",
+				"border-width"
+			],
+			[
+				"ti",
+				"text-align"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"l",
+				"link	Tag"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"me",
+				"meta	Tag"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"fa",
+				"font-family"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"f",
+				"font-style"
+			],
+			[
+				"st",
+				"style	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 241.0,
+		"last_filter": "html",
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 197.0,
+		"history":
+		[
+			"<script>document.write('<script src=\"http://' + (location.host || '${1:localhost}').split(':')[0] + ':${2:35729}/livereload.js?snipver=1\"></' + 'script>')</script>",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			" import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/basti/Documents/schoolwerk/programs/opdrachten/recepten/README.md",
+		"/C/Users/basti/Documents/schoolwerk/programs/opdrachten/opdr_over_mij/index.html",
+		"/C/Users/basti/Documents/git_site/opdr_over_mij/banaan",
+		"/C/Users/basti/Documents/git_site/opdr_over_mij/main.html",
+		"/C/Users/basti/AppData/Local/Temp/Rar$DIa0.686/__init__.pyo",
+		"/C/Users/basti/Documents/programs/opdrachten/opdr_html_1/main.html",
+		"/C/Users/basti/Documents/programs/opdrachten/opdr_html_1/stylesheet.css",
+		"/C/Users/basti/Documents/git-introductie/mno.md",
+		"/C/Users/basti/Documents/programs/opdrachten/main",
+		"/C/Users/basti/Documents/programs/test.html",
+		"/C/Users/basti/Documents/programs/main.css",
+		"/C/Users/basti/Documents/programs/index.html",
+		"/C/Users/basti/Documents/programs/test website/main.css",
+		"/C/Users/basti/Documents/programs/test website/animals.java",
+		"/C/Users/basti/Documents/programs/accellerometer ball controller/index.html",
+		"/C/Users/basti/Documents/programs/accellerometer ball controller/page2.html",
+		"/C/Users/basti/Documents/programs/accellerometer ball controller/page3.html",
+		"/C/Users/basti/Documents/programs/accellerometer ball controller/main.css",
+		"/C/Users/basti/Documents/programs/accellerometer ball controller/test_1.br"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ingredi",
+			"<ul>",
+			"padding: 20px 20px;",
+			"body",
+			";\n",
+			"	 "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<li>",
+			"padding: 15px 15px;"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "eier.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"main.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 164.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
